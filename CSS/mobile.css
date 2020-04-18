@@ -1,0 +1,67 @@
+#navbar {
+  padding-bottom: 10px;
+}
+
+#navbar h1 {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul {
+  float: none;
+text-align: center;
+
+}
+
+#navbar ul li {
+  float: none;
+text-align: center;
+border: grey dotted 1px;
+}
+
+#showcase {
+  padding-top: 0px;
+  height: 450px;
+}
+
+#home-info .info-img {
+  display: none;
+  background: url('../img/photo-1.jpg') no-repeat;
+   }
+
+#home-info .info-content {
+  background:#444;
+  text-align: center;
+  color: white;
+  width: 100%;
+  padding-top: 40px;
+  }
+  
+.box {
+   float: none;
+   width: 100%;
+   padding-top: 50px;
+   text-align: center;
+   padding-bottom: 30px;
+ }
+
+ .info-left 
+ {
+ text-align: center;
+float: none;
+width: 100%;
+}
+
+.info-right {
+width: 100%;
+} 
+
+.image
+ {
+float: none;
+padding-bottom: 20px;
+}
+
+#Testimonials .container h1 {
+font-size: 30px;  
+}
